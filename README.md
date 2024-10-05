@@ -1,4 +1,7 @@
 # odin-recipes
-HTML documents for a mock recipe website
 
-I learned to create html documents and link them together. I learned to organize tet elements in ordered and unordered lists. I learned to include images in the douments, and the correct file system to store them.
+https://pays0n.github.io/odin-recipes/
+
+HTML and CSS documents for a mock recipe website. Not yet pretty but getting better every day, and great for learning.
+
+I learned basic HTML to create pages and link them. I learned the basic types of boxes available and methods to mark components for CSS. I added some classes and made slight changes to make the site work better with CSS. The CSS aspects I have learned are the basics coloring, block placement, and how to manipulate margin, border, and padding. I just learned about flex box type and will update the website main links soon.
